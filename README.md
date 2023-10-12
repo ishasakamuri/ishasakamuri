@@ -1,5 +1,5 @@
 # ishasakamuri
  
-hi
-bye
-hi
+Isha Sakamuri
+Comp Sci
+2027
